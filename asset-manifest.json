@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Expenses-Tracker-React/static/css/main.c5b2aa74.css",
+    "main.js": "/Expenses-Tracker-React/static/js/main.ffc20d3d.js",
+    "static/media/entertainment.svg": "/Expenses-Tracker-React/static/media/entertainment.1cc4ebaa643502b55337f9e27d8b2417.svg",
+    "static/media/travel.svg": "/Expenses-Tracker-React/static/media/travel.70fb543dba2a4a6632fb48f3e79c9548.svg",
+    "static/media/loan.svg": "/Expenses-Tracker-React/static/media/loan.dc37913ae1a6389eb30cb79da03f342f.svg",
+    "static/media/subscribtion.svg": "/Expenses-Tracker-React/static/media/subscribtion.f36d2d0e6ac926512a60b1ed16b9d691.svg",
+    "static/media/food.svg": "/Expenses-Tracker-React/static/media/food.c97ff37d3a38c0107e26cd06fbcd8b6b.svg",
+    "static/media/gifts.svg": "/Expenses-Tracker-React/static/media/gifts.f807769eee5f34fcc3f0a624df0e0f79.svg",
+    "static/media/shopping.svg": "/Expenses-Tracker-React/static/media/shopping.0e21348e329a9fd7863f383282b54799.svg",
+    "static/media/education.svg": "/Expenses-Tracker-React/static/media/education.661a416234e7f2eb94351a04c1b94e74.svg",
+    "static/media/pet.svg": "/Expenses-Tracker-React/static/media/pet.cdc58a8fd7af3e5c66b993b673a8e1e9.svg",
+    "static/media/health.svg": "/Expenses-Tracker-React/static/media/health.d12d39beff33395fbe2fe7b2a79e16fd.svg",
+    "static/media/house.svg": "/Expenses-Tracker-React/static/media/house.167ca490d8af12a8b1e92a2b945d81b5.svg",
+    "static/media/male-icon.svg": "/Expenses-Tracker-React/static/media/male-icon.ca4de000cb657926005608b14e4c8672.svg",
+    "static/media/transportation.svg": "/Expenses-Tracker-React/static/media/transportation.1995d366b555964ddc6af332c0657b15.svg",
+    "static/media/sort-icon.svg": "/Expenses-Tracker-React/static/media/sort-icon.bdececb6f73f943e76ff14042d3849e3.svg",
+    "static/media/drink.svg": "/Expenses-Tracker-React/static/media/drink.8965054f7b074b4e42a23a07047faab7.svg",
+    "static/media/expenses-arrow.svg": "/Expenses-Tracker-React/static/media/expenses-arrow.668fc0ea97e564e3c44f9799fbf2f34b.svg",
+    "static/media/income-arrow.svg": "/Expenses-Tracker-React/static/media/income-arrow.8576106c977d0bad2c10ab4039032d3d.svg",
+    "index.html": "/Expenses-Tracker-React/index.html",
+    "static/media/check.svg": "/Expenses-Tracker-React/static/media/check.918ded6386365f3aa9dead2d89d61f56.svg",
+    "static/media/plus-icon.svg": "/Expenses-Tracker-React/static/media/plus-icon.ee316844e421ea0f00119cca184a1a1d.svg",
+    "static/media/minus-icon.svg": "/Expenses-Tracker-React/static/media/minus-icon.306ed7124544f7f20fc3ec91aa0d84df.svg",
+    "main.c5b2aa74.css.map": "/Expenses-Tracker-React/static/css/main.c5b2aa74.css.map",
+    "main.ffc20d3d.js.map": "/Expenses-Tracker-React/static/js/main.ffc20d3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b2aa74.css",
+    "static/js/main.ffc20d3d.js"
+  ]
+}
